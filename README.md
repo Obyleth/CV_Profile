@@ -1,6 +1,6 @@
 # CV_Profile
 # console.log('Hii Guys!! 👋')
-Im Systems engineer, i really love development in video games and everything related to cybersecurity. Currently learning **DevOps & Integration BUS **,i love to learn everything and of course playing videogames.
+Im Systems engineer, i really love development in video games and everything related to cybersecurity. Currently learning **DevOps & Integration BUS **,i love to learn everything and of course playing videogames. *This is going to be great*
 
 ##Skills
 
