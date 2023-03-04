@@ -4,7 +4,7 @@ Im Systems engineer, i really love development in video games and everything rel
 
 ##Skills
 
-My main programming languages/platforms are: Python, C#, .Net, AWS, Shell and Git.
+My main programming languages/platforms are: Python, C#, .Net, AWS, Shell, Linux and Git.
 
 You can follow me in the next sites/blog where every week i share new things about games and Cybersecurity 😊
 - 👍 [Blog](https://ciberseguridad-y-mas-cosas.blogspot.com)
