@@ -15,7 +15,7 @@ git config --global user.name "scofield"
 
 # Ejecucion
 
-   #    cd /home/giovanemere/Aprovisionamiento_Linux
+   #    cd /home/scofield/Aprovisionamiento_Linux
    #   git clone https://$username:$token@github.com/$repo
 
    #if [[ $clone =~ ^[Yy]$ ]]
